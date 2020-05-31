@@ -1,0 +1,20 @@
+/* *****TEAM***** */
+/* timro responsive praye height le bigarirako cha  */
+.ourteam {
+  /* height: 500px; */
+  /* padding: 100px 0px 60px; */
+  /* width: 100%; */
+  /* herek choti width define gariraknu parddaina  */
+  margin-bottom: 100px;
+}
+
+.ourteam h1 {
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  /* margin-top: -100px; */
+  /* mathi ko class ma padding use gareko bhayera margin -ve ma use garnu pareko ho */
+}
+.teamsetting {
+  margin-top: 50px;
+}

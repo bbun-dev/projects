@@ -1,0 +1,14 @@
+/* *****FOOTER***** */
+
+.footer {
+  background-color: black;
+  color: white;
+  height: 100px;
+  text-align: center;
+}
+
+.footer h6 {
+  padding-top: 30px;
+  /* line-height: 50px; */
+  /*  paragraph ma matrai use garne single line ma hoina  */
+}

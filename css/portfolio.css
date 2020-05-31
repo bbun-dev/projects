@@ -1,0 +1,20 @@
+.portfolio {
+  /* height: 1100px; */
+  /* sake samma height nadine  dine nai ho bhane media  query lagayera matrai dinde   thulo
+  screen ma height dina sano screen  ma napugne huna sakcha    bg-color deko cha bhane main  div ma dine ani content anusar lincha */
+
+  padding: 100px 0px 50px;
+  margin-bottom: 80px;
+}
+
+.portfolio h1 {
+  padding-top: 40px;
+  font-size: 50px;
+  font-weight: 600;
+  /*  thulo thulo  font size use garda sake samma font width masino rakne design ramro dekcha  */
+}
+
+.card {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}

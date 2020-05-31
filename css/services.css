@@ -1,0 +1,89 @@
+/* ***SERVICES**** */
+/*  yema pani card use garda huncha 
+margin-bottom  harek tag ra div pachi  dine  if  kunai element hatayepani  site bigridaina 
+ */
+.ourservices {
+  padding: 100px 0px 60px;
+  height: 700px;
+}
+
+.ourservices h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+.rowsetting {
+  margin: 80px 0px;
+}
+
+/* .imgsetting {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+ 
+  margin-bottom: 20px;
+  margin-left: 100px;
+} */
+
+/* .fa-desktop {
+  margin-top: 30px;
+  margin: 28px 22px;
+} */
+
+.fa-lock {
+  margin-top: 26px;
+}
+
+.fa-envelope-open {
+  margin-top: 26px;
+}
+
+.rowsetting h2 {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.rowsetting p {
+  padding: 10px;
+  color: #6c757d !important;
+}
+
+/* change*/
+.services {
+  margin-bottom: 80px;
+}
+.services h4 {
+  font-size: 26px;
+  font-weight: 600px;
+  margin: 50px 0 35px 0;
+}
+@media (min-width: 768px) {
+  .services h4 {
+    text-align: center;
+  }
+}
+
+.desktop {
+  margin-bottom: 20px;
+}
+/* @media (min-width: 768px) {
+  .description {
+    text-align: center;
+  }
+} */
+
+.imgsetting {
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+  /* change */
+  margin-bottom: 20px;
+}
+@media (min-width: 768px) {
+  .imgsetting {
+    margin-left: 50px;
+  }
+}
+.fa-desktop {
+  font-size: 30px;
+  margin: 20px 14px;
+}
